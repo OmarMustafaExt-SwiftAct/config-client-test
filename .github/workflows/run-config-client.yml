@@ -16,4 +16,4 @@ jobs:
         run: python --version
 
       - name: Run Config Client
-        run: python client.py
+        run: python ConfigClient.py
